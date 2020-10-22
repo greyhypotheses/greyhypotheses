@@ -9,6 +9,7 @@ These are the projects of **greyhypotheses**.  The projects currently in focus, 
 
 An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science; an area of strong interest.
 
+<br>
 
 <!--
 **greyhypotheses/greyhypotheses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
