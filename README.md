@@ -1,3 +1,4 @@
+<br>
 
 These are the projects of **greyhypotheses**.  The projects currently in focus, for 2 or 3 more weeks, are
 
