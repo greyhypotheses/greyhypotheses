@@ -10,6 +10,20 @@ An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Coll
 
 <br>
 
+### Organisations
+
+* [briefings](https://github.com/briefings)
+
+* [discourses](https://github.com/discourses)
+
+* [miscellane](https://github.com/miscellane)
+
+* [premodelling](https://github.com/premodelling)
+
+* [environmentalhazards](https://github.com/environmentalhazards) <br>This organisation includes repositories that are currently private
+
+<br>
+
 <!--
 **greyhypotheses/greyhypotheses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
