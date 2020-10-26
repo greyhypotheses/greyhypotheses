@@ -2,7 +2,6 @@
 
 These are the organisations/repositories of **greyhypotheses**.
 
-<br>
 
 ### Latest
 
@@ -14,7 +13,6 @@ The project in focus, for 2 or 3 more weeks, is **an investigation of measures, 
 
 An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science.
 
-<br>
 
 ### Organisations
 
