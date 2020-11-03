@@ -5,7 +5,7 @@ These are the organisations/repositories of **greyhypotheses**.
 
 ### Latest
 
-The project in focus, for 2 or 3 more weeks, is **an investigation of measures, metrics, & forecasts for present and future public health problems**.  The associated repositories are
+Presently, the project in focus is **an investigation of measures, metrics, & forecasting models for present and future public health problems**.  The associated repositories are
 
   * [sars](https://github.com/briefings/sars): The focus herein in the U.S.  More details within the repository.
 
