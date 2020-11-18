@@ -9,7 +9,7 @@ Presently, the project in focus is **an investigation of measures, metrics, & fo
 
   * [sars](https://github.com/briefings/sars): More details within the repository.
 
-  * [uncertainty](https://github.com/briefings/uncertainty): Initially, exploring PyMC3.  In progress ⤑ Bayesian models in relation to the outputs of [sars](https://github.com/briefings/sars).
+  * [uncertainty](https://github.com/briefings/uncertainty): Initially, exploring [PyMC3](https://docs.pymc.io) & [TensorFlow Probability](https://www.tensorflow.org/probability/).  In progress ⤑ Bayesian models in relation to the outputs of [sars](https://github.com/briefings/sars).
 
 An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science.
 
