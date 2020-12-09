@@ -2,22 +2,19 @@
 
 These are the organisations/repositories of [greyhypotheses](https://greyhypotheses.github.io).
 
+### In focus
 
-### Latest
+Bayesian modelling via [PyMC3](https://docs.pymc.io) & [TensorFlow Probability](https://www.tensorflow.org/probability/).  
 
-Presently, the project in focus is - an investigation of measures, metrics, & forecasting models, amidst uncertainty.  The associated repositories are
+* Prototyping via Google Colab 
 
-  * [sars](https://github.com/briefings/sars): More details within the repository.
-
-  * [uncertainty](https://github.com/briefings/uncertainty): Initially, exploring [PyMC3](https://docs.pymc.io) & [TensorFlow Probability](https://www.tensorflow.org/probability/).  
-    * In progress via Google Colab ⤑ Bayesian models in relation to the outputs of [sars](https://github.com/briefings/sars).
-
-An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science.
-
+* Projects being set-up at [plausibilities](https://github.com/plausibilities)
 
 ### Organisations
 
 * [briefings](https://github.com/briefings)
+
+* [plausibilities](https://github.com/plausibilities)
 
 * [discourses](https://github.com/discourses)
 
@@ -26,6 +23,10 @@ An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Coll
 * [premodelling](https://github.com/premodelling)
 
 * [vertiveria](https://github.com/vetiveria) <br>This organisation includes repositories that are currently private
+
+<br>
+
+An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science.
 
 <br>
 
