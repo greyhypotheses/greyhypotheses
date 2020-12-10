@@ -1,14 +1,8 @@
 <br>
 
-These are the organisations/repositories of [greyhypotheses](https://greyhypotheses.github.io).
+homepage: [greyhypotheses](https://greyhypotheses.github.io)
 
-### In focus
-
-Bayesian modelling via [PyMC3](https://docs.pymc.io) & [TensorFlow Probability](https://www.tensorflow.org/probability/).  
-
-* Prototyping via Google Colab 
-
-* Projects being set-up at [plausibilities](https://github.com/plausibilities)
+<br>
 
 ### Organisations
 
