@@ -2,8 +2,6 @@
 
 homepage: [greyhypotheses](https://greyhypotheses.github.io)
 
-<br>
-
 ### Organisations
 
 * [briefings](https://github.com/briefings)
