@@ -1,6 +1,6 @@
 <br>
 
-homepage: [greyhypotheses](https://greyhypotheses.github.io)
+**home page**: [greyhypotheses](https://greyhypotheses.github.io)
 
 ### Organisations
 
