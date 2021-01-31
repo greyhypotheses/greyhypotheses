@@ -1,6 +1,5 @@
-<br>
 
-**home page**: [greyhypotheses](https://greyhypotheses.github.io)
+Please visit [greyhypotheses](https://greyhypotheses.github.io)
 
 <br>
 
