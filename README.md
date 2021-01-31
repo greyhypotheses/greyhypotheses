@@ -1,9 +1,6 @@
-
-Please visit [greyhypotheses](https://greyhypotheses.github.io)
-
 <br>
 
-**Organisations**: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [premodelling](https://github.com/premodelling), [vertiveria](https://github.com/vetiveria) (includes repositories that are currently private)
+**Introductory notes @** [greyhypotheses](https://greyhypotheses.github.io).  Associated **organisations**: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [premodelling](https://github.com/premodelling), [vertiveria](https://github.com/vetiveria) (includes repositories that are currently private).
 
 <br>
 
