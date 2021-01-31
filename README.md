@@ -4,23 +4,11 @@
 
 <br>
 
-**Organisations**
-
-* [briefings](https://github.com/briefings)
-
-* [plausibilities](https://github.com/plausibilities)
-
-* [discourses](https://github.com/discourses)
-
-* [miscellane](https://github.com/miscellane)
-
-* [premodelling](https://github.com/premodelling)
-
-* [vertiveria](https://github.com/vetiveria) <br>This organisation includes repositories that are currently private
+**Organisations**: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [premodelling](https://github.com/premodelling), [vertiveria](https://github.com/vetiveria) (includes repositories that are currently private)
 
 <br>
 
-An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science.
+An inherent aspect of some projects is the smarter use of *Jupyter Lab* for Collaborative Data Science via a combination of classes & light notebooks.
 
 <br>
 
