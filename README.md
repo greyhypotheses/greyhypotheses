@@ -1,6 +1,6 @@
 <br>
 
-**Introductory notes @** [greyhypotheses](https://greyhypotheses.github.io).  Associated **organisations**: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [exhypotheses](https://github.com/exhypotheses), [vertiveria](https://github.com/vetiveria).
+**Introductory notes @** [greyhypotheses](https://greyhypotheses.github.io).  Associated **organisations**: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [exhypotheses](https://github.com/exhypotheses), [vetiveria](https://github.com/vetiveria).
 
 <br>
 
