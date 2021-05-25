@@ -4,11 +4,9 @@
 
 **And**
 
-* Tableau: https://public.tableau.com/profile/greyhypotheses
+* https://public.tableau.com/profile/greyhypotheses
 
-* Docker: https://hub.docker.com/u/greyhypotheses
-
-* Web Graphs Examples: (a) [HighCharts example](https://briefings.github.io/sars/graphs/spreads/pages/hopkins.html), (b) [R Plotly example](https://vetiveria.github.io/) - the 3D graph might take a few seconds to appear. [ref. https://www.highcharts.com/, https://plotly.com/r/]
+* https://hub.docker.com/u/greyhypotheses
 
 <br>
 
