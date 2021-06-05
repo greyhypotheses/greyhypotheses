@@ -1,6 +1,6 @@
 <br>
 
-[**greyhypotheses.github.io**](https://greyhypotheses.github.io) is a helpful entry point.  The [structure page](https://greyhypotheses.github.io/greyhypotheses/structure.html) briefly outlines the contents of a few GitHub Organizations that greyhypotheses is associated with: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [exhypotheses](https://github.com/exhypotheses), [vetiveria](https://github.com/vetiveria).  An inherent aspect of some projects is the smarter use of *Jupyter Lab* for collaborative data science/analytics via a combination of classes & light notebooks.
+GitHub Organizations: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [vetiveria](https://github.com/vetiveria), etc.  
 
 <br>
 
@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[**greyhypotheses.github.io**](https://greyhypotheses.github.io) is a helpful entry point.  The [structure page](https://greyhypotheses.github.io/greyhypotheses/structure.html) briefly outlines the contents of a few GitHub Organizations that greyhypotheses is associated with: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [exhypotheses](https://github.com/exhypotheses), [vetiveria](https://github.com/vetiveria).  
+
+An inherent aspect of some projects is the smarter use of *Jupyter Lab* for collaborative data science/analytics via a combination of classes & light notebooks.
+
 -->
