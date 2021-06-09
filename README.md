@@ -1,6 +1,6 @@
 <br>
 
-GitHub Organizations: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [vetiveria](https://github.com/vetiveria), etc.  
+The **greyhypotheses** repositories are grouped into GitHub Organizations: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [vetiveria](https://github.com/vetiveria), etc.  [greyhypotheses.github.io](https://greyhypotheses.github.io) is a helpful entry point; its [structure page](https://greyhypotheses.github.io/greyhypotheses/structure.html) briefly outlines the contents of a few **greyhypotheses** GitHub Organizations.
 
 <br>
 
