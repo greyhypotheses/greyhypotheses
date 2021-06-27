@@ -2,12 +2,6 @@
 
 The **greyhypotheses** repositories are grouped into GitHub Organizations: [briefings](https://github.com/briefings), [plausibilities](https://github.com/plausibilities), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [vetiveria](https://github.com/vetiveria), etc.  [greyhypotheses.github.io](https://greyhypotheses.github.io) is a helpful entry point; its [structure page](https://greyhypotheses.github.io/greyhypotheses/structure.html) briefly outlines the contents of a few **greyhypotheses** GitHub Organizations.
 
-<br>
-
-Quick Previews:
-
-* GitHub Actions is used for continuous integration, and delivery, in a number of repositories.  For a simple example visit [this check suite](https://github.com/vetiveria/pollutants/runs/2875093026?check_suite_focus=true)
-
 <!--
 **greyhypotheses/greyhypotheses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
