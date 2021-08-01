@@ -1,9 +1,9 @@
 <br>
 
-https://greyhypotheses.github.io/greyhypotheses/structure.html
+https://greyhypotheses.github.io/greyhypotheses/content.html
 
 
-The **greyhypotheses** repositories are **repositories of notes & explorations**.  The repositories are grouped into GitHub Organizations, e.g., [plausibilities](https://github.com/plausibilities),  [briefings](https://github.com/briefings), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [vetiveria](https://github.com/vetiveria), etc.  The page [greyhypotheses.github.io](https://greyhypotheses.github.io) is a helpful entry point; its [structure page](https://greyhypotheses.github.io/greyhypotheses/structure.html) briefly outlines the contents of a few **greyhypotheses** GitHub Organizations.
+The **greyhypotheses** repositories are **repositories of notes & explorations**.  The repositories are grouped into GitHub Organizations, e.g., [plausibilities](https://github.com/plausibilities),  [briefings](https://github.com/briefings), [discourses](https://github.com/discourses), [miscellane](https://github.com/miscellane), [vetiveria](https://github.com/vetiveria), etc.  The page [greyhypotheses.github.io](https://greyhypotheses.github.io) is a helpful entry point; its [content page](https://greyhypotheses.github.io/greyhypotheses/content.html) briefly outlines the contents of a few **greyhypotheses** GitHub Organizations.
 
 
 
