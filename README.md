@@ -2,7 +2,11 @@
 
 The **greyhypotheses** repositories are **repositories of notes & explorations**.  The repositories are grouped into GitHub Organizations, e.g., [plausibilities](https://github.com/plausibilities),  [briefings](https://github.com/briefings), [discourses](https://github.com/discourses), [vetiveria](https://github.com/vetiveria), etc.  The page [greyhypotheses.github.io](https://greyhypotheses.github.io) is a helpful entry point; its [content page](https://greyhypotheses.github.io/greyhypotheses/content.html) briefly outlines the contents of a few **greyhypotheses** projects.
 
+<br>
+<br>
 
+<br>
+<br>
 
 <!--
 
