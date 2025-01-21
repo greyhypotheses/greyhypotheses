@@ -1,6 +1,7 @@
 <br>
 
-The **greyhypotheses** repositories are **repositories of notes & explorations**; almost all the projects I have been involved in, conducted, have been for organisations, hence most project details cannot be shared.  The repositories are grouped into *GitHub Organizations*.
+The **greyhypotheses** repositories are **repositories of notes & explorations**; almost all the projects I have been involved in are projects of organisations, hence most project details cannot be shared.  The repositories of a project or theme are grouped into distinct *GitHub Organizations*.
+
 <br>
 <br>
 
