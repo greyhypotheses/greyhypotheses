@@ -1,6 +1,6 @@
 <br>
 
-The **greyhypotheses** repositories are **repositories of notes & explorations**; almost all the projects I have been involved in are projects of organisations, hence most project details cannot be shared.  The repositories of a project or theme are grouped into distinct *GitHub Organizations*.
+The **greyhypotheses** repositories are **repositories of notes & explorations**; almost all the projects I have been involved in are private, hence most project details cannot be shared.  The repositories are grouped by topic or [theme](https://github.com/theartificialintelligenceunit) via distinct *GitHub Organizations*.
 
 <br>
 <br>
@@ -9,10 +9,6 @@ The **greyhypotheses** repositories are **repositories of notes & explorations**
 <br>
 
 <!--
-
-**greyhypotheses/greyhypotheses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - Hello 👋
 - 🔭 I’m currently working on ...
