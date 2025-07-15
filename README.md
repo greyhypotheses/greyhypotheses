@@ -1,6 +1,6 @@
 <br>
 
-The **greyhypotheses** repositories are **repositories of notes & explorations**; almost all the projects I have been involved in are private, hence most project details cannot be shared.  The repositories are grouped by topic or [theme](https://github.com/theartificialintelligenceunit) via distinct *GitHub Organizations*.
+The **greyhypotheses** repositories are **repositories of notes & explorations**; almost all the projects I have been involved in are private, hence most project details cannot be shared.  The repositories are grouped by topic or theme via distinct *GitHub Organizations*.
 
 <br>
 <br>
