@@ -1,6 +1,6 @@
 <br>
 
-The **greyhypotheses** repositories & *GitHub Organizations*.  
+Repositories & *GitHub Organizations*
 
 <br>
 <br>
