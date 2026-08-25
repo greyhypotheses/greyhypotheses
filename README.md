@@ -16,7 +16,7 @@ README
     </ul><br>
   </li>
   <li><a href="https://d6yyoz24z7snw.cloudfront.net/src/c-dispatches-introduction.html" target="_blank">Transfer Learning/Fine-tuning</a><br>An upcoming relevant article will focus on model development economics, i.e., the economic viability of a prospective algorithm & model development project considering development cost, running cost, cost of delay, net present value vis-à-vis a defined time period, etc.<br><br></li>
-  <li>Also in progress, a nascent country observatory & foresights project.  It will depend on a wide range of underpinning [under development] feeds, e.g., <i><a href="https://d10nf4iq6yx4sq.cloudfront.net/src/inactive/continuous-annual.html" target="_blank">companies registrations & dissolutions</a></i>, <i><a href="https://d10nf4iq6yx4sq.cloudfront.net/src/banking/gross/mixture-real-percentages.html">bank credit allocation</a></i>, <i><a href="https://d10nf4iq6yx4sq.cloudfront.net/src/active/trees-treemap.html" target="_blank">latest active companies</a></i>, etc.</li>
+  <li>Also in progress, a nascent country observatory & foresights project.  It will depend on a wide range of underpinning [under development] feeds, e.g., <a href="https://d10nf4iq6yx4sq.cloudfront.net/src/banking/gross/mixture-real-percentages.html">bank credit allocation</a>, &nbsp;<a href="https://d10nf4iq6yx4sq.cloudfront.net/src/active/trees-treemap.html" target="_blank">latest active companies</a>, etc.</li>
 </ul>
 </details>
 
