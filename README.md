@@ -1,7 +1,8 @@
 <br>
 
-README
+<b>greyhypotheses</b>
 
+<!---
 <details><summary>A set of shareable developments</summary>
 
 <br>
@@ -20,6 +21,8 @@ README
   <li>Aside: <a href="https://d29mim58jd41o6.cloudfront.net/src/background.html">This de-commissioned project</a> was put-together for colleagues interested in orchestrating & automating metrics/insights/predictions deliveries via Amazon Web Services technologies.  The hub discusses a demonstration that ran daily until November 2025.</li>
 </ul>
 </details>
+
+---!>
 
 <br>
 <br>
