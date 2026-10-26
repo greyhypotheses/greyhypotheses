@@ -2,10 +2,21 @@
 
 <b>README</b>
 
-
-<details><summary>A few of shareable developments</summary>
+<br>
+<br>
 
 <br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<!-- 
+
+<details><summary>A few of shareable developments</summary>
 
 <ul>
   <li>Signal Decomposition &Rarr; <br><a target="_blank" href="https://colab.research.google.com/github/ac-matter/.github/blob/master/profile/frequency.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><br></li>
@@ -18,22 +29,8 @@
   </li>
   <li><a href="https://d20jx6yro7cbix.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">Transfer Learning/Fine-tuning</a><br>An upcoming relevant article will focus on model development economics, i.e., the economic viability of a prospective algorithm & model development project considering development cost, running cost, cost of delay, net present value vis-à-vis a defined time period, etc.<br><br></li>
   <li>Aside: <a href="https://d29mim58jd41o6.cloudfront.net/src/background.html">This de-commissioned project</a> was put-together for colleagues interested in orchestrating & automating metrics/insights/predictions deliveries via Amazon Web Services technologies.  The hub discusses a demonstration that ran daily until November 2025.<br><br></li>
-  <li>Graphing: Examples &Rarr; <a href="https://d10nf4iq6yx4sq.cloudfront.net/src/banking/gross/mixture-real-percentages.html">bank credit allocation</a> | &nbsp;<a href="https://d10nf4iq6yx4sq.cloudfront.net/src/active/trees-treemap.html" target="_blank">latest active companies, United Kingdom</a> | <a href="https://d10nf4iq6yx4sq.cloudfront.net/src/elements/aggregates.html" target="_blank">companies & districts, United Kingdom</a> | etc.</li>
+  <li>Graphing: Examples &Rarr; <a href="https://d10nf4iq6yx4sq.cloudfront.net/src/banking/gross/mixture-real-percentages.html">bank credit allocation</a> | &nbsp;<a href="https://d10nf4iq6yx4sq.cloudfront.net/src/active/trees-treemap.html" target="_blank">latest active companies, United Kingdom</a>, <a href="https://d10nf4iq6yx4sq.cloudfront.net/application/industries/index.html" target="_blank">similarly</a> | <a href="https://d10nf4iq6yx4sq.cloudfront.net/src/elements/aggregates.html" target="_blank">companies & districts, United Kingdom</a> | etc.</li>
 </ul>
 </details>
 
-
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<!-- https://d10nf4iq6yx4sq.cloudfront.net/application/industries/index.html -->
+-->
