@@ -1,6 +1,16 @@
 <br>
 
-<b>README</b>
+<details><summary><b>README</b></summary>
+
+<br>
+
+A pair of shareable examples; more upcoming.
+
+<ul>
+  <li><a href="https://d20jx6yro7cbix.cloudfront.net/src/c-eclectic-introduction.html" target="_blank">Named Entity Recognition</a></li>
+  <li>Spectroscopy Signal Decomposition &Rarr; <br><a target="_blank" href="https://colab.research.google.com/github/ac-matter/.github/blob/master/profile/frequency.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><br></li>  
+</ul>
+</details>
 
 <br>
 <br>
